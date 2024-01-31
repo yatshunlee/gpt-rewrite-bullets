@@ -1,0 +1,33 @@
+Google XYZ formula: Accomplished [X] as measured by [Y], by doing [Z].
+
+example 1 of xyz
+OK: "Member of Leadership for Tomorrow Society"
+Better: "Selected as one of 275 for this 12-month professional development program for high-achieving diverse talent."
+Best: "Selected as one of 275 participants nationwide for this 12-month professional development program for high-achieving diverse talent based on leadership potential and academic success."
+
+from best version in example 1
+X: Selected for this 12-month professional development program for high-achieving diverse talent
+Y: 1 of 275 participants nationwide
+Z: based on leadership potential and academic success
+
+example 2 of xyz
+OK: "Won second place in hackathon."
+Better: "Won second place out of 50 teams in hackathon."
+Best: "Won second place out of 50 teams in hackathon at NJ Tech by working with two colleagues to develop an app that synchronizes mobile calendars.
+
+from best version in example 2
+X: Won second place in hackathon at NJ Tech
+Y: second place out of 50 teams
+Z: working with two colleagues to develop an app that synchronizes mobile calendars
+
+example 3 of xyz
+OK: "Grew revenue for small and medium business clients."
+Better: "Grew revenue for small and medium business clients by 10% QoQ"
+Best: "Grew revenue for 15 small and medium business clients by 10% QoQ by mapping new software features as solutions to their business goals."
+
+from best version in example 3
+X: grew revenue for small and medium business clients
+Y: increased 10% QoQ for 15 clients
+Z: mapping new software features as solutions to their business goals
+
+End of Google XYZ formula.
