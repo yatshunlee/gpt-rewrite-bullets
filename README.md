@@ -1,6 +1,9 @@
 # gpt-rewrite-bullets
 Rewrite bullet points of your original resume with LLMs by referring the Google XYZ formula.
 
+### Model used
+- GPT-3.5 Turbo
+
 ### What did I use to 'teach' the AI
 - [195 Action Words, Indeed](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out)
 - [XYZ Formula and Examples, Inc](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html)
