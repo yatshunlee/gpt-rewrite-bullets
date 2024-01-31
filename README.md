@@ -23,36 +23,45 @@ ABC Company Limited is a Hong Kong property and facilities management company.
 ### Output
 *remark: 99.999% is just a placeholder for the AI to store a quantifiable result in the bullet points.
 ```
-original: Undertook diverse...
+original: Undertook diverse administrative and clerical tasks.
 rewritten: Accomplished diverse administrative and clerical tasks with 99.999% efficiency and 99.999% accuracy to ensure smooth operations.
 
-original: Engageing with...
-rewritten: Engaged with clients through various channels, ensuring exceptional customer service with a 99.999% satisfaction rate.
+original: Engageing with clients through various channels for exceptional customer service.
+rewritten: Engaged with clients through various channels, ensuring exceptional customer service with a 99.999% satisfaction rating.
 
-original: Assistting with a range...
-rewritten: Assisted clients with a wide range of banking solutions and promptly addressed their concerns at the first point of contact, achieving a 99.999% customer satisfaction rate.
+original: Assisting with a range of banking solutions and promptly addressing client concerns at the first point of contact.
+rewritten: Assisted clients with a range of banking solutions, promptly addressing concerns at the first point of contact with a 99.999% issue resolution rate.
 
-original: Protecting client...
-rewritten: Safeguarded client interests by diligently following compliance routines, processes, and controls to effectively manage risks with a 99.999% compliance rate.
+original: Protecting client interests by following compliance routines, processes, and controls to manage risks.
+rewritten: Safeguarded client interests by diligently following compliance routines, processes, and controls, effectively managing risks with a 99.999% compliance rate.
 
-original: Supporting all...
-rewritten: Supported colleagues in meeting client needs and contributed to overall team results with a collaborative approach, leading to a 99.999% client satisfaction rate.
+original: Supporting all colleagues to meet client needs and contribute to team results.
+rewritten: Supported colleagues in meeting client needs and achieving team results with a 99.999% collaboration rate.
 
-original: Undertook diverse...
-rewritten: Accomplished diverse administrative and clerical tasks with 99.999% efficiency and 99.999% accuracy to ensure smooth operations.
+original: Managed emergency situations, address customer inquiries, and handle complaints.
+rewritten: Successfully managed and resolved emergency situations, addressed customer inquiries, and efficiently handled complaints with a 99.999% customer satisfaction rating.
 
-original: Managed emergency...
-rewritten: Managed emergency situations, addressed customer inquiries, and handled complaints with a quick response time of 99.999%.
+original: Supervised the upkeep, security, and cleanliness standards of properties.
+rewritten: Supervised and maintained high standards of upkeep, security, and cleanliness for properties with a 99.999% compliance rate.
 
-original: Supervised the upkeep...
-rewritten: Supervised the upkeep, security, and cleanliness standards of properties, maintaining a 99.999% satisfaction rating from tenants.
+original: Developed and nurture positive connections with tenants, landlords, and various departments.
+rewritten: Developed and nurtured positive connections with tenants, landlords, and various departments to foster productive relationships with a 99.999% satisfaction rate.
 
-original: Developed and nurture...
-rewritten: Developed and nurtured positive connections with tenants, landlords, and various departments, resulting in a 99.999% tenant retention rate.
+original: Proficient in property leasing and administration.
+rewritten: Demonstrated proficiency in property leasing and administration, ensuring smooth operations with a 99.999% accuracy rate.
 
-original: Proficient in property...
-rewritten: Demonstrated proficiency in property leasing and administration, ensuring a seamless rental process and a 99.999% accuracy in lease agreements.
-
-original: Collaborated with... tenants...
+original: Collaborated with the tenant to organize sales promotions and facilitate event execution.
 rewritten: Collaborated with tenants to strategize and execute successful sales promotions and events, driving a 99.999% revenue growth.
+
+original: Supervised the upkeep, security, and cleanliness standards of properties.
+rewritten: Supervised and maintained high standards of upkeep, security, and cleanliness for properties with a 99.999% compliance rate.
+
+original: Developed and nurture positive connections with tenants, landlords, and various departments.
+rewritten: Developed and nurtured positive connections with tenants, landlords, and various departments to foster productive relationships with a 99.999% satisfaction rate.
+
+original: Proficient in property leasing and administration.
+rewritten: Demonstrated proficiency in property leasing and administration, ensuring smooth operations with a 99.999% accuracy rate.
+
+original: Collaborated with the tenant to organize sales promotions and facilitate event execution.
+rewritten: Collaborated with the tenant to organize successful sales promotions and facilitate event execution with a 99.999% satisfaction rate.
 ```
