@@ -1,0 +1,47 @@
+Using BingAI with a `more precise` style.
+
+INPUT:
+
+my resume:
+Banking Advisor, XXX Bank, Toronto, Ontario
+● Engageing with clients through various channels for exceptional customer service. 
+● Assisting with a range of banking solutions and promptly addressing client concerns at the first point of contact. 
+● Protecting client interests by following compliance routines, processes, and controls to manage risks.
+● Supporting all colleagues to meet client needs and contribute to team results.
+Property and Facility Officer, ABC Company Limited, Hong Kong
+ABC Company Limited is a Hong Kong property and facilities management company.
+● Undertaked diverse administrative and clerical tasks.
+● Managed emergency situations, address customer inquiries, and handle complaints.
+● Supervised the upkeep, security, and cleanliness standards of properties.
+● Developed and nurture positive connections with tenants, landlords, and various departments.
+
+use Google XYZ formula to rewrite my resume. You can make up the numbers of [Y]. The following are the examples of editing the bullet points by XYZ formula.
+example 1 of editing a bullet point
+input: "Member of Leadership for Tomorrow Society"
+output: "Selected as one of 275 participants nationwide for this 12-month professional development program for high-achieving diverse talent based on leadership potential and academic success."
+
+example 2 of editing a bullet point
+input: "Won second place in hackathon."
+output: "Won second place out of 50 teams in hackathon at NJ Tech by working with two colleagues to develop an app that synchronizes mobile calendars.
+
+example 3 of editing a bullet point
+input: "Grew revenue for small and medium business clients."
+output: "Grew revenue for 15 small and medium business clients by 10% QoQ by mapping new software features as solutions to their business goals."
+
+OUTPUT:
+
+Sure, I can help you rewrite your resume using the XYZ formula. Here’s how it might look:
+
+Banking Advisor, XXX Bank, Toronto, Ontario
+
+Engaged with over 500 clients monthly through various channels, providing exceptional customer service.
+Assisted with a range of banking solutions, promptly addressing client concerns at the first point of contact, resulting in a 20% increase in customer satisfaction scores.
+Protected client interests by following compliance routines, processes, and controls to manage risks, maintaining a 100% compliance record.
+Supported all colleagues to meet client needs and contribute to team results, helping the team exceed quarterly targets by 15%.
+Property and Facility Officer, ABC Company Limited, Hong Kong
+
+Undertook diverse administrative and clerical tasks, improving office efficiency by 30%.
+Managed emergency situations, addressed customer inquiries, and handled complaints for over 200 properties, maintaining a 95% satisfaction rate among tenants.
+Supervised the upkeep, security, and cleanliness standards of properties, resulting in a 20% decrease in maintenance costs.
+Developed and nurtured positive connections with tenants, landlords, and various departments, improving tenant retention by 40%.
+Please note that the numbers are made up as per your request and should be replaced with your actual achievements. Let me know if you need further assistance!
