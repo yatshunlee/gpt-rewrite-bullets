@@ -28,7 +28,7 @@ example 3 of editing a bullet point
 input: "Grew revenue for small and medium business clients."
 output: "Grew revenue for 15 small and medium business clients by 10% QoQ by mapping new software features as solutions to their business goals."
 
-OUTPUT:
+OUTPUT 1:
 
 Sure, I can help you rewrite your resume using the XYZ formula. Here’s how it might look:
 
@@ -45,3 +45,18 @@ Managed emergency situations, addressed customer inquiries, and handled complain
 Supervised the upkeep, security, and cleanliness standards of properties, resulting in a 20% decrease in maintenance costs.
 Developed and nurtured positive connections with tenants, landlords, and various departments, improving tenant retention by 40%.
 Please note that the numbers are made up as per your request and should be replaced with your actual achievements. Let me know if you need further assistance!
+
+OUTPUT 2:
+
+Banking Advisor, XXX Bank, Toronto, Ontario
+
+Engaged with over 200 clients weekly through various channels, providing exceptional customer service and increasing customer satisfaction by 20%.
+Assisted with a range of banking solutions, promptly addressing over 50 client concerns daily at the first point of contact, reducing resolution time by 30%.
+Protected client interests by diligently following compliance routines, processes, and controls, managing risks and reducing compliance issues by 15%.
+Supported all colleagues to meet client needs and contribute to team results, improving team productivity by 25%.
+Property and Facility Officer, ABC Company Limited, Hong Kong
+
+Undertook diverse administrative and clerical tasks, improving operational efficiency by 20%.
+Managed over 50 emergency situations, addressed over 100 customer inquiries weekly, and handled complaints, reducing customer complaints by 30%.
+Supervised the upkeep, security, and cleanliness standards of over 20 properties, maintaining a 95% satisfaction rate among tenants.
+Developed and nurtured positive connections with over 100 tenants, landlords, and various departments, improving stakeholder relationships by 40%.
